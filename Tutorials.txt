@@ -1,1 +1,0 @@
-git init ==> to track a project in project direcotry
